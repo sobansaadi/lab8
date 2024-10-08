@@ -3,4 +3,7 @@ using name space std;
 int main()
 {
     cout<<"Hello World";
+    cout<<"hheeheheheh";
+    hi hello hehe huhu haha
+    return 0;
 }
